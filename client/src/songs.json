@@ -1,0 +1,267 @@
+[
+  {
+    "title": "Bleach",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/bleach-opening-1.m4a",
+    "img": "./assets/bleach.jpeg"
+  },
+  {
+    "title": "Air Gear",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/air-gear-opening-1.m4a",
+    "img": "./assets/air-gear.jpeg"
+  },
+  {
+    "title": "Air Master",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/air-master-opening-1.m4a",
+    "img": "./assets/air-master.jpeg"
+  },
+  {
+    "title": "Akame ga kill!",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/akame-ga-kill!-opening-1.m4a",
+    "img": "./assets/akame-ga-kill.jpeg"
+  },
+  {
+    "title": "Attack on titan",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/attack-on-titan-opening-1.m4a",
+    "img": "./assets/attack-on-titan.jpeg"
+  },
+  {
+    "title": "Baki",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/baki-2018-opening-1.m4a",
+    "img": "./assets/baki.jpeg"
+  },
+  {
+    "title": "Black clover",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/black-clover-opening-1.m4a",
+    "img": "./assets/black-clover.jpeg"
+  },
+  {
+    "title": "Bleach",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/bleach-opening-2.m4a",
+    "img": "./assets/bleach.jpeg"
+  },
+  {
+    "title": "Chobits",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/chobits-opening.m4a",
+    "img": "./assets/chobits.jpg"
+  },
+  {
+    "title": "Cowboy bebop",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/cowboy-bebop-opening.m4a",
+    "img": "./assets/cowboy-bebop.jpeg"
+  },
+  {
+    "title": "Deadman wonderland",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/deadman-wonderland-opening.m4a",
+    "img": "./assets/deadman-wonderland.jpeg"
+  },
+  {
+    "title": "Death note",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/death-note.m4a",
+    "img": "./assets/death-note.jpg"
+  },
+  {
+    "title": "Bleach",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/bleach-opening-3.m4a",
+    "img": "./assets/bleach.jpeg"
+  },
+  {
+    "title": "Demon slayer",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/demon-slayer.m4a",
+    "img": "./assets/demonslayer.jpeg"
+  },
+  {
+    "title": "Dragon ball Z",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/dragon-ball-z-opening-1-.m4a",
+    "img": "./assets/dbz.jpeg"
+  },
+  {
+    "title": "Elfen lied",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/elfen-lied-opening.m4a",
+    "img": "./assets/elfen-lied.jpeg"
+  },
+  {
+    "title": "Fairy tail",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/fairy-tail-1.m4a",
+    "img": "./assets/fairy-tail.jpeg"
+  },
+  {
+    "title": "Fire force",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/fire-force-opening.m4a",
+    "img": "./assets/fire-force.jpeg"
+  },
+  {
+    "title": "Fooly cooly",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/fooly-cooly.m4a",
+    "img": "./assets/FLCL.jpeg"
+  },
+  {
+    "title": "Fullmetal alchemist brotherhood",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/fullmetal-alchemist-brotherhood-opening-1.m4a",
+    "img": "./assets/fullmetal-alchemist-brotherhood.jpeg"
+  },
+  {
+    "title": "Haikyu!!",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/haikyu-opening-1.m4a",
+    "img": "./assets/haikyu.jpeg"
+  },
+  {
+    "title": "Hinomaru sumo",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/hinomaru-sumo-opening-1.m4a",
+    "img": "./assets/hinomaru-sumo.jpeg"
+  },
+  {
+    "title": "Hunter x hunter",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/hunter-x-hunter-opening-1.m4a",
+    "img": "./assets/hunter-x-hunter.jpeg"
+  },
+  {
+    "title": "Inuyasha",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/inuyasha-ending-2.m4a",
+    "img": "./assets/inuyasha.jpeg"
+  },
+  {
+    "title": "Magi the labyrinth of magic",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/magi-the-labyrinth-of-magic-opening-1.m4a",
+    "img": "./assets/magi-the-labyrinth-of-magic.jpeg"
+  },
+  {
+    "title": "My hero academia",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/my-hero-academia-opening-1.m4a",
+    "img": "./assets/my-hero-academia.png"
+  },
+  {
+    "title": "Naruto shippuden",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/naruto-shippuden-opening-6.m4a",
+    "img": "./assets/naruto-shippuden.png"
+  },
+  {
+    "title": "Naruto",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/naruto-opening-4.m4a",
+    "img": "./assets/naruto.jpeg"
+  },
+  {
+    "title": "Neon genesis evangelion",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/neon-genesis-evangelion.m4a",
+    "img": "./assets/neon-genesis-evangelion.jpeg"
+  },
+  {
+    "title": "One punch man",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/one-punch-man.m4a",
+    "img": "./assets/one-punch-man.jpeg"
+  },
+  {
+    "title": "Outlaw star",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/outlaw-star.m4a",
+    "img": "./assets/outlaw-star.jpeg"
+  },
+  {
+    "title": "Overlord",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/overlord-opening.m4a",
+    "img": "./assets/overlord.jpeg"
+  },
+  {
+    "title": "Parasyte",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/parasyte-opening.m4a",
+    "img": "./assets/parasyte.jpeg"
+  },
+  {
+    "title": "Pokemon",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/pokemon-opening.m4a",
+    "img": "./assets/pokemon.jpeg"
+  },
+  {
+    "title": "Samurai champloo",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/samurai-champloo-opening-1.m4a",
+    "img": "./assets/samurai-champloo.jpeg"
+  },
+  {
+    "title": "Soul eater",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/soul-eater-opening-1.m4a",
+    "img": "./assets/soul-eater.jpeg"
+  },
+  {
+    "title": "The god of high school",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/the-god-of-high-school-opening.m4a",
+    "img": "./assets/the-god-of-high-school.png"
+  },
+  {
+    "title": "The promised neverland",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/the-promised-neverland-opening.m4a",
+    "img": "./assets/the-promised-neverland.jpeg"
+  },
+  {
+    "title": "The rising of the shield hero",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/the-rising-of-the-shield-hero-opening.m4a",
+    "img": "./assets/the-rising-of-the-shield-hero.jpg"
+  },
+  {
+    "title": "Tokyo revengers",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/tokyo-revengers-opening.m4a",
+    "img": "./assets/tokyo-revengers.jpeg"
+  },
+  {
+    "title": "Sword art online",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/sword-art-online-opening-1.m4a",
+    "img": "./assets/sword-art-online.jpeg"
+  },
+  {
+    "title": "Yu yu hakusho",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/yu-yu-hakusho-opening-1.m4a",
+    "img": "./assets/yu-yu-hakusho.jpeg"
+  },
+  {
+    "title": "Pokemon",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/pokemon-opening.m4a",
+    "img": "./assets/pokemon.jpeg"
+  },
+  {
+    "title": "Sailor moon",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/sailor-moon-opening-1.m4a",
+    "img": "./assets/sailor-moon.jpeg"
+  },
+  {
+    "title": "High school of the dead",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/highschool-of-the-dead-opening-1.mp3",
+    "img": "./assets/highschool-of-the-dead.jpeg"
+  },
+  {
+    "title": "Bleach",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/bleach-opening-6.mp3",
+    "img": "./assets/bleach.jpeg"
+  },
+  {
+    "title": "Bleach",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/bleach-opening-4.mp3",
+    "img": "./assets/bleach.jpeg"
+  },
+  {
+    "title": "Rainbow",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/rainbow.mp3",
+    "img": "./assets/rainbow.jpeg"
+  },
+  {
+    "title": "Bleach",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/bleach-opening-12.mp3",
+    "img": "./assets/bleach.jpeg"
+  },
+  {
+    "title": "Konosuba",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/konosuba.mp3",
+    "img": "./assets/konosuba.jpeg"
+  },
+  {
+    "title": "Mirai nikki",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/mirai-nikki.mp3",
+    "img": "./assets/mirai-nikki.jpeg"
+  },
+  {
+    "title": "Naruto",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/naruto-shippuden-opening-17.mp3",
+    "img": "./assets/naruto-shippuden.png"
+  },
+  {
+    "title": "No game no life",
+    "song": "https://asset-test1.nyc3.digitaloceanspaces.com/anime-songs/no-game-no-life-opening.mp3",
+    "img": "./assets/ngnl.jpeg"
+  }
+]
